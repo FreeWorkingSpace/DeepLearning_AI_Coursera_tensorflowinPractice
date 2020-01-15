@@ -1,0 +1,2 @@
+# DeepLearning_AI_Coursera_tensorflowinPractice
+Coursera Class of Tensorflow in Practice
